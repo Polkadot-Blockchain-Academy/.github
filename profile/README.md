@@ -1,5 +1,5 @@
 <p align="center">
-<img style="border-radius: 10rem; width:30rem;" alt="Polkadot Blockchain Academy" src="https://github.com/Polkadot-Blockchain-Academy/.github/assets/35669742/d6743f8e-23a3-429c-a7ab-e509d4f1a4ea" />
+<img style="border-radius: 10rem; width:30rem;" alt="Polkadot Blockchain Academy" src="https://github.com/Polkadot-Blockchain-Academy/.github/assets/61462365/5fd22ef9-bb01-4801-ae7d-87b888f170fd" />
 </p>
 
 <h4 align="center"><em>Academic excellence.<br/>Innovative approaches.<br/>Authentic community.</em></h4>
